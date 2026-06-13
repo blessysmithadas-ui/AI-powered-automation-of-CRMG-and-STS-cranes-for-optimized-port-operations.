@@ -2,10 +2,11 @@ Project Title
 Advanced AI-Integrated Automation of CRMG and STS Cranes for Optimized Port Operations
 
 Team
-Blessy Smitha Das
-Gourisankar S
+Blessy Smitha Das,
+Gourisankar S,
+Neeraj Krishna,
 Anaswara R N
-Neeraj Krishna
+
 
 Project Overview
 This project focuses on automating Ship-to-Shore (STS) and Cantilever Rail-Mounted Gantry (CRMG) cranes using Artificial Intelligence, Computer Vision, and IoT technologies. The system is designed to improve container handling efficiency, reduce human intervention, enhance operational safety, and optimize cargo movement within container terminals.

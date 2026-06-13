@@ -16,10 +16,10 @@ Research Focus
 The study investigates how data analytics and machine learning can be applied to improve operational efficiency within modern port environments.
 
 Key Contributions
-Application of machine learning for port optimization.
-Predictive analysis for reducing operational delays.
-Data-driven resource allocation strategies.
-Improved decision-making through analytics.
+─ Application of machine learning for port optimization.
+─ Predictive analysis for reducing operational delays.
+─ Data-driven resource allocation strategies.
+─ Improved decision-making through analytics.
 
 Key Takeaways
 This paper demonstrated the importance of using intelligent systems to analyze operational data and optimize container terminal performance.
@@ -40,10 +40,10 @@ Research Focus
 The paper focuses on optimizing the coordination between quay cranes and automated lifting vehicles to improve container terminal productivity.
 
 Key Contributions
-Integrated scheduling of cranes and transport vehicles.
-Reduction of equipment idle time.
-Improved synchronization between terminal resources.
-Enhanced operational throughput.
+─ Integrated scheduling of cranes and transport vehicles.
+─ Reduction of equipment idle time.
+─ Improved synchronization between terminal resources.
+─ Enhanced operational throughput.
 
 Key Takeaways
 The research demonstrated the significance of coordinated automation in container terminals. Efficient scheduling and resource allocation can substantially improve cargo handling speed and reduce operational delays.
@@ -63,10 +63,10 @@ Research Focus
 This study explores the application of Deep Reinforcement Learning (DRL) for intelligent crane control and autonomous operational decision-making.
 
 Key Contributions
-AI-driven crane operation.
-Adaptive learning through environmental feedback.
-Improved precision and operational safety.
-Dynamic response to changing operating conditions.
+─ AI-driven crane operation.
+─ Adaptive learning through environmental feedback.
+─ Improved precision and operational safety.
+─ Dynamic response to changing operating conditions.
 
 Key Takeaways
 The paper demonstrated how artificial intelligence can be applied to automate crane movements and improve handling efficiency. It also highlighted the potential of adaptive learning techniques in complex industrial environments.
@@ -78,10 +78,10 @@ Summary of Findings
 The reviewed literature consistently demonstrates the growing role of Artificial Intelligence, Machine Learning, Computer Vision, and intelligent scheduling systems in modern port automation.
 
 Key observations include:
-AI can significantly improve port efficiency and reduce delays.
-Intelligent scheduling enhances coordination between cranes and transport systems.
-Machine learning enables adaptive decision-making in dynamic environments.
-Automated systems improve operational safety and reduce human error.
-Real-time data processing is essential for next-generation smart ports.
+─ AI can significantly improve port efficiency and reduce delays.
+─ Intelligent scheduling enhances coordination between cranes and transport systems.
+─ Machine learning enables adaptive decision-making in dynamic environments.
+─ Automated systems improve operational safety and reduce human error.
+─ Real-time data processing is essential for next-generation smart ports.
 
 The findings from these studies helped shape the development approach of this project and validated the feasibility of implementing AI-assisted automation for container handling operations.
